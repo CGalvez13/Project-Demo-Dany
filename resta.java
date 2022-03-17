@@ -1,0 +1,7 @@
+/*
+codigo de resta
+*/
+
+/*
+fecha
+*/
